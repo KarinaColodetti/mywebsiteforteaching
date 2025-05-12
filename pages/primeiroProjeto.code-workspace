@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "primeiroProjeto",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Responsive footer"
+	}
+}
