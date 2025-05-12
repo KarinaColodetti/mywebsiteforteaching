@@ -1,3 +1,3 @@
 # My first Website 
 
-- This business website is a study project to put in practice my studies on programming.
+- This business website is a project to put into practice my studies on programming.
